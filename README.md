@@ -5,9 +5,7 @@ It contains:
 * Besu
 * Orion
 
-### How to Use
-
-------
+## How to Use
 
 * Execute  `docker-compose up` to start the services
 * Run `./jsonrpc-2.0.sh` to get the response (See  the Besu API Methods for request) 
@@ -49,9 +47,7 @@ $ ./jsonrpc-2.0.sh priv_getPrivateTransaction \"0x24205669f60be865e2917ecbbb239c
 
 
 
-### Network mapping
-
-------
+## Network mapping
 
 * Besu 1 - http://localhost:8515
 * Besu 2 - http://localshost:8525
